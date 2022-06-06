@@ -1,0 +1,6 @@
+1 Adam Malysz Malamysz_56 12345678901 1001000.00
+2 Mariusz Pudzianowski Silna_3 12312312312 252000.00
+3 Jaroslaw Krzywy Prosta_3 45678934567 997.00
+4 Krzysztof Kowalski Krakowska_5 97897897898 21345.67
+5 Jan Brzezinski Limanowskiego_129 02212201172 123456.78
+6 Wojciech Sankowski Piotrkowska_1 78787878787 1000.00
